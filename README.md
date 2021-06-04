@@ -1,0 +1,2 @@
+# water-potability-predictor
+A machine learning classifier that can predict the quality/potability of a body of water based on 9 properties.  These properties are: pH value, hardness, solids (total dissolved solids - TDS), chloramines, sulfate, conductivity, organic carbon, trihalomethanes, and turbidity.  This dataset is from Kaggle and was last updated on April 25, 2021. Currently there are 3276 bodies of water in the dataset.
